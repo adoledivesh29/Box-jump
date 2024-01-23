@@ -1,0 +1,74 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/cube.png",
+                "type": "image",
+                "key": "cube"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": [
+                    "assets/sounds/hit.wav"
+                ],
+                "type": "audio",
+                "key": "hit"
+            },
+            {
+                "url": "src/scripts/InputManager.js",
+                "type": "script",
+                "key": "InputManager"
+            },
+            {
+                "url": [
+                    "assets/sounds/jump.wav"
+                ],
+                "type": "audio",
+                "key": "jump"
+            },
+            {
+                "url": "assets/images/line.png",
+                "type": "image",
+                "key": "line"
+            },
+            {
+                "url": [
+                    "assets/sounds/music.wav"
+                ],
+                "type": "audio",
+                "key": "music"
+            },
+            {
+                "url": "assets/images/pixel.png",
+                "type": "image",
+                "key": "pixel"
+            },
+            {
+                "url": "assets/images/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "src/scripts/SocketManager.js",
+                "type": "script",
+                "key": "SocketManager"
+            },
+            {
+                "url": "src/scripts/SoundManager.js",
+                "type": "script",
+                "key": "SoundManager"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
